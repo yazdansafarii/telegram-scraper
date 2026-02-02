@@ -6,8 +6,8 @@ load_dotenv()
 
 # اطلاعات اتصال
 # مستقیم مقدار را جایگزین کنید
-API_ID = 33220805
-API_HASH = '45e921eeb6dd50e233b50d1761bebc91'
+API_ID = 
+API_HASH = ''
 
 SESSION_NAME = os.getenv('SESSION_NAME')
 
@@ -15,7 +15,7 @@ SESSION_NAME = os.getenv('SESSION_NAME')
 SOURCE_CHANNELS = [
     '@varzesh3',
     '@khabarfouri',
-    '@yazadntestbot'
+    
     # -100123456789,  # مثال برای کانال خصوصی
 ]
 
